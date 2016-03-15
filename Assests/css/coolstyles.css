@@ -1,0 +1,17 @@
+/* This is a comment in CSS */
+
+body {background-color: rgba(0, 0, 0,0.5);}
+body {color: cyan;}
+h1 {color: yellow ;}
+div > p > span {color: rgb(128,0,128);}
+div {color: rgb(0,255,127);}
+span {color: red;}
+
+body {text-align: center;}
+
+.title {color: yellow;}
+#orange-paragraph {color: orange;}
+
+.big-boy {font-size: 45px;}
+
+.big-boy > span {color: rgba(59, 236, 140, 0.75);}
