@@ -66,7 +66,7 @@ section {
 
 }
 
-section > h3 {
+section h3 {
     font-weight: 600;
     font-size: 36px;
     color: #986D64;
@@ -75,7 +75,7 @@ section > h3 {
 
   }
 
-section > h4 {
+section  h4 {
   font-weight: 600;
   font-size: 24px;
   color: #4a4a4a;
@@ -84,7 +84,7 @@ section > h4 {
 
 }
 
-section > p {
+section  p {
     font-weight: 400;
     font-size: 20px;
     font-family: Helvetica;
@@ -93,23 +93,9 @@ section > p {
     margin: 0px;
 }
 
-#about-me > div {
-    display:inline-block;
-    width: 40%;
-    margin: 0px;
-    padding: 0px;
-}
-
-#about-me > div > img {
+#young-naruto {
   width: 90%;
 
-}
-
-#about-me > p {
-  width: 60%;
-  float: right;
-  margin: 0px;
-  padding: 0px;
 }
 
 #projects {
@@ -118,11 +104,7 @@ section > p {
 
 }
 
-#projects > div {
-  display: inline-block;
-}
-
-#projects > div > p {
+#projects p {
   text-align: center;
   font-size: 24px;
   font-weight: 600;
@@ -132,12 +114,8 @@ section > p {
   margin-bottom: 60px;
 }
 
-#projects > div > img {
-  width: 400px;
-}
-
-#img-margin {
-  margin: 0px 100px;
+#projects img {
+  width: 95%;
 }
 
 #education {
@@ -161,7 +139,7 @@ footer {
   height: 90px;
 }
 
-footer > ul {
+footer ul {
   list-style: none;
   margin: 0px;
   padding: 0px;
@@ -169,13 +147,13 @@ footer > ul {
   padding-top: 27px;
 }
 
-footer > ul > li {
+footer li {
   display: inline;
   margin: 0px 25px;
 
 }
 
-footer > ul > li > a {
+footer  a {
       font-size: 24px;
       font-weight: 600;
       color: white;
