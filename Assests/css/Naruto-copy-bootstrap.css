@@ -133,6 +133,21 @@ section  p {
   padding-bottom: 140px;
 
 }
+#data-pad {
+  padding-top: 60px;
+}
+table {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+thead > tr > th {
+  text-align: center;
+}
+tbody > tr {
+  text-align: center;
+}
+
 footer {
   background-color: orange;
   font-family: Helvetica;
